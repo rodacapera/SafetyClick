@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733477509123",
+    "project_id": "carnegiehill-15203",
+    "storage_bucket": "carnegiehill-15203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733477509123:android:7395375dee42f4c55f5636",
+        "android_client_info": {
+          "package_name": "io.cordova.carnegiehill.teranov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgjewFsNbmp8PltfzMoV0CDDzIWNGKW0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
